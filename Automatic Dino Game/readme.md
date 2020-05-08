@@ -27,5 +27,5 @@ Another microcontroller can be used fro it to be cost effective but Arduino is j
 ### Output
 A servo motor can be fixed to press the space bar instead of using python which may seem easy to understand for beginners, but the python code is really simple and can be learnt easily, and doesnt take any physical strain/problems so better if we use python to execute the project. 
 
-## A different approach
+## A Different Approach
 An AI can be built based on reinforcement learning using Q-Learning. This will not have any physical objects like LDR and hence more efficient, but it may be difficult for beginers to grasp.But if learnt it would teach a lot of stuff, and lesser power consumption except that it may take up more memory, and its cost effective too.
