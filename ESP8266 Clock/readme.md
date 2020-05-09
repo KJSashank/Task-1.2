@@ -31,3 +31,7 @@ Any microcontroller with a wifi module can be used , but ESP8266 is the best bet
 ### Output
 
 An LED display can be used instead of an LCD display, or a 7-segment one can be used as thats its function. But again LED displays can be expensive, and gives higher resolution which is not required unless we want to add features.
+
+## An Alternative Approach
+
+An arduino can be used, and with the millis() function the clock can calculate the difference between a particular time and give out the display correspondingly. But the setting of time may be difficult and a solution shpuld be put up for it.
